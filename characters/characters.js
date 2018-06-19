@@ -23,7 +23,7 @@ var currencys = ["¤","؋","a","r","₿","฿","b","/",".","b","r","b","s",".","
 
 
 
-
+/*
 shuffle(lettersDeAll) 
 
 function shuffle(array) {
