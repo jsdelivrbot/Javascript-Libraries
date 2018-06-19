@@ -21,7 +21,7 @@ var lettersDeAll = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", 
 
 
 
-
+/*
 makeArray(``, true)
 
 function makeArray(text, isArray, toUpper) {
@@ -29,20 +29,20 @@ function makeArray(text, isArray, toUpper) {
   //  text = text.split(" ").join("");
     text = text.split("\n").join('","');
 console.log(text)
-   /* if (toUpper === true) {
-        text = text.toUpperCase(text)
-    } else {
-        text = text.toLowerCase(text)
-    }*/
+   // if (toUpper === true) {
+   //     text = text.toUpperCase(text)
+  //  } else {
+  //      text = text.toLowerCase(text)
+  //  }
 
-   /* if (isArray === true) {
-        finalText = `["${text.split("").join('","')}"]`
-    } else {
-        finalText = `"${text.split("").join('","')}"`
-    }
-    console.log(finalText)*/
+   // if (isArray === true) {
+  //      finalText = `["${text.split("").join('","')}"]`
+ //   } else {
+  //      finalText = `"${text.split("").join('","')}"`
+ //   }
+  //  console.log(finalText)
 }
-
+*/
 
 
 
